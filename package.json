@@ -48,7 +48,7 @@
     "url": "https://github.com/bubkoo/find-monorepo-root/issues"
   },
   "homepage": "https://github.com/bubkoo/find-monorepo-root",
-    "engines": {
+  "engines": {
     "node": ">=16"
   },
   "dependencies": {
