@@ -2,8 +2,7 @@
 <p align="center">Find the root directory of a monorepo using Yarn workspaces, Bolt, Lerna or pnpm</p>
 
 <p align="center">
-<a href="/LICENSE"><img src="https://img.shields.io/github/license/bubkoo/
-?style=flat-square" alt="MIT License"></a>
+<a href="/LICENSE"><img src="https://img.shields.io/github/license/bubkoo/find-monorepo-root?style=flat-square" alt="MIT License"></a>
 <a href="https://www.typescriptlang.org"><img alt="Language" src="https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square"></a>
 <a href="https://github.com/bubkoo/find-monorepo-root/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square"></a>
 </p>
