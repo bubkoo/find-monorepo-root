@@ -1,2 +1,2 @@
 # find-monorepo-root
-Find the root of a monorepo with Yarn workspaces, Bolt or pnpm
+Find the root directory of a monorepo using Yarn workspaces, Bolt, Lerna or pnpm

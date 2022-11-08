@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "@find-monorepo-root/test-bolt",
+  "bolt": {
+    "workspaces": ["packages/*"]
+   }
+}
