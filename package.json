@@ -37,7 +37,22 @@
   "release": {
     "extends": "@bubkoo/semantic-release-config"
   },
-  "keywords": [],
+  "keywords": [
+    "monorepo",
+    "monorepo-root",
+    "root",
+    "workspaces",
+    "yarn-monorepo",
+    "yarn-workspaces",
+    "yarn",
+    "lerna-monorepo",
+    "lerna-workspaces",
+    "lerna",
+    "pnpm-workspaces",
+    "pnpm-monorepo",
+    "pnpm",
+    "Bolt"
+  ],
   "author": "bubkoo",
   "license": "MIT",
   "repository": {
