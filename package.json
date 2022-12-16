@@ -1,6 +1,6 @@
 {
   "name": "find-monorepo-root",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Find the root directory of a monorepo using Yarn workspaces, Bolt, Lerna or pnpm",
   "type": "module",
   "main": "lib/index.js",
