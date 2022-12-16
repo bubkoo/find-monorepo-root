@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/bubkoo/find-monorepo-root/actions/workflows/release.yml"><img alt="build" src="https://img.shields.io/github/workflow/status/bubkoo/find-monorepo-root/%F0%9F%9A%80%E3%80%80Release/master?logo=github&style=flat-square"></a>
+<a href="https://github.com/bubkoo/find-monorepo-root/actions/workflows/release.yml"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/bubkoo/find-monorepo-root/release.yml?branch=master&logo=github&style=flat-square"></a>
 <a href="https://app.codecov.io/gh/bubkoo/find-monorepo-root"><img alt="coverage" src="https://img.shields.io/codecov/c/gh/bubkoo/find-monorepo-root?logo=codecov&style=flat-square&token=15CO54WYUV"></a>
 <a href="https://www.npmjs.com/package/find-monorepo-root"><img alt="NPM Package" src="https://img.shields.io/npm/v/find-monorepo-root.svg?style=flat-square"></a>
 <a href="https://www.npmjs.com/package/find-monorepo-root"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/find-monorepo-root?logo=npm&style=flat-square"></a>
